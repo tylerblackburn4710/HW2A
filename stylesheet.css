@@ -1,0 +1,62 @@
+.section_header{font-size: 15pt; text-align:left; line-height: 10pt; padding-bottom: 10pt;}
+.wrapper{width:720px; margin:0px auto; text-align:center;}
+.Tyler_Header{
+text-align:center;
+width:600px;
+margin: auto;
+}
+.Underlined_Headers{
+text-align:left; 
+font-size: 20pt; 
+color: Black;
+}
+.Job{
+text-align:left;
+font-size: 10pt;
+}
+.Job_Description{
+text-align: left; font-size: 17pt; font-style:italic;
+}
+.Picture_Description_Blue{
+text-align:center; 
+font-size: 10pt; 
+font-style: bold; 
+padding-top: 12pt; 
+color:black;
+}
+.Picture_Description_White{
+text-align:center;
+font-size: 10pt;
+font-style: bold;
+padding-top: 12pt;
+color:red;
+}
+
+body {
+color:black;
+background-color: pink;
+font-family: Veranda;
+}
+
+.Picture_One {
+width:150px;
+height:200px;
+border: 25px solid orange;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 40px;
+margin-left: 40px;
+float: left;
+}
+
+.Picture_Two {
+width:250px;
+height:150px;
+border: 15px Solid Black;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 40px;
+margin-left: 40px;
+float: left;
+}
+
